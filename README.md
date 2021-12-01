@@ -4,7 +4,7 @@
 
 📫 How to reach me: https://www.v-alizadeh.info/
 
-<a href="https://app.daily.dev/vahidalizadeh"><img src="https://github.com/VahidAlizadeh/VahidAlizadeh/blob/master/devcard.svg" width="300" alt="Vahid Alizadeh's Dev Card"/></a>
+<a href="https://app.daily.dev/vahidalizadeh"><img src="https://github.com/VahidAlizadeh/VahidAlizadeh/blob/main/devcard.svg" width="300" alt="Vahid Alizadeh's Dev Card"/></a>
 
 <!--
 <a href="https://app.daily.dev/vahidalizadeh"><img src="https://api.daily.dev/devcards/0566377669d342668bd29ca3ba02ba69.png?r=b2j" width="300" alt="Vahid Alizadeh's Dev Card"/></a>
