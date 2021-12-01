@@ -1,0 +1,26 @@
+# https://github.com/marketplace/actions/dailydotdev-devcard
+# https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile?utm_source=webapp&utm_medium=devcard&utm_campaign=devcardguide&utm_id=inapp
+
+name: MyDevCard
+
+# Controls when the workflow will run
+on:
+# Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+  # a cronjob and will return every {x} time. In our case, we will run it every night at 00:00.
+    - cron: "0 0 * * *"
+
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  devcard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: devcard
+        uses: dailydotdev/action-devcard@2.0.4
+        with:
+          devcard_id: ${{ secrets.DEVCARD_ID }}
