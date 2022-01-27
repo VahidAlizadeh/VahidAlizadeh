@@ -2,6 +2,10 @@
 
 🔭 I'm an assistant professor in the College of Computing and Digital Media (CDM) at DePaul University (Chicago, USA)
 
+<img width="342" alt="image" src="https://user-images.githubusercontent.com/5072972/151320439-4bdf0496-3048-4420-9567-a6cbd801bf1d.png">
+<img width="342" alt="image" src="https://user-images.githubusercontent.com/5072972/151320487-d154ede3-860b-4421-bba0-a309251bc4ef.png">
+
+
 📫 How to reach me: https://www.v-alizadeh.info/
 
 <a href="https://app.daily.dev/vahidalizadeh"><img src="https://github.com/VahidAlizadeh/VahidAlizadeh/blob/main/devcard.svg" width="300" alt="Vahid Alizadeh's Dev Card"/></a>
