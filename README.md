@@ -2,16 +2,28 @@
 
 🔭 I'm an assistant professor in the College of Computing and Digital Media (CDM) at DePaul University (Chicago, USA)
 
+---
+
 📫 How to reach me: https://www.v-alizadeh.info/
+
+---
+
 
 <a href="https://app.daily.dev/vahidalizadeh"><img src="https://github.com/VahidAlizadeh/VahidAlizadeh/blob/main/devcard.svg" width="300" alt="Vahid Alizadeh's Dev Card"/></a>
 
+---
+
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vahidalizadeh&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+---
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vahidalizadeh)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vahidalizadeh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
 <!-- Languages and frameworks -->
 <div>
@@ -109,7 +121,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original-wordmark.svg" title="raspberrypi" alt="raspberrypi" width="40" height="40"/>&nbsp;
 </div>
 
-
+---
 
 <!-- Random Dev Jokes  -->
 
