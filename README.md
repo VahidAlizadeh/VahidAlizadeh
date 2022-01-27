@@ -121,7 +121,7 @@
 
 
 <!-- RESOURCES -->
-https://www.sitepoint.com/github-profile-readme/
+<!-- https://www.sitepoint.com/github-profile-readme/ -->
 
 
 
