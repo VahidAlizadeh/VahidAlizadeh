@@ -46,6 +46,8 @@
 <!-- number of visitors -->
 ![](https://komarev.com/ghpvc/?username=vahidalizadeh&label=Visitors+Count&color=red&style=flat-square)
 
+<!-- A transparent pixel to count visitors -another service from below website -->
+<!-- https://yhype.me/dashboard -->
 ![](https://hit.yhype.me/github/profile?user_id=5072972)
 ---
 
