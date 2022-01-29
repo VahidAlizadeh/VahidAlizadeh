@@ -44,7 +44,7 @@
 
 ---
 <!-- number of visitors -->
-![](https://komarev.com/ghpvc/?username=vahidalizadeh&label=Visitors+Count&color=orange)
+![](https://komarev.com/ghpvc/?username=vahidalizadeh&label=Visitors+Count&color=red&style=flat-square)
 
 ![](https://hit.yhype.me/github/profile?user_id=5072972)
 ---
