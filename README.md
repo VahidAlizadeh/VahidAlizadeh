@@ -4,6 +4,7 @@
 🔭 I'm an assistant professor in the College of Computing and Digital Media (CDM) at DePaul University (Chicago, USA)
 
 <a href="https://app.daily.dev/vahidalizadeh"><img src="https://github.com/VahidAlizadeh/VahidAlizadeh/blob/main/devcard.svg" width="300" alt="Vahid Alizadeh's Dev Card"/></a>
+
 ---
 
 📫 How to reach me: https://www.v-alizadeh.info/
@@ -42,13 +43,8 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
+<!-- number of visitors -->
 ![](https://komarev.com/ghpvc/?username=vahidalizadeh&label=Visitors+Count&color=brightgreen)
-
-
-
-
-
-
 
 ---
 
