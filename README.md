@@ -36,7 +36,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-### ✍️Random Dev Joke
+### 😂Random Dev Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ### 😂Random Dev Meme
