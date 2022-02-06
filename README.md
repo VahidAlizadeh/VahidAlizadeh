@@ -22,14 +22,15 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=vahidalizadeh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vahidalizadeh&theme=dracula&hide_border=true)
-
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=vahidalizadeh&theme=radical&hide_border=false)<br/> -->
 
 ![](http://github-readme-streak-stats.herokuapp.com?user=vahidalizadeh&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vahidalizadeh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vahidalizadeh&theme=dracula&hide_border=true)
+
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vahidalizadeh&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
