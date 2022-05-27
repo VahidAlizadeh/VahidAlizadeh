@@ -24,7 +24,7 @@ jobs:
 
            # Options
           user: vahidalizadeh
-          template: repository
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Chicago
           plugin_achievements: yes
