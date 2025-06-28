@@ -12,8 +12,7 @@ on:
       - main
   schedule:
   # a cronjob and will return every {x} time. In our case, we will run it every night at 00:00.
-    - cron: "0 0 * * *"
-
+    - cron: "0 0 * * 0"
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
