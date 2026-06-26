@@ -1,7 +1,7 @@
 # 💫About Me :
 ### Hi there 👋
 
-🔭 I'm an assistant professor in the College of Computing and Digital Media (CDM) at DePaul University (Chicago, USA)
+🔭 I'm an associate professor in the College of Computing and Digital Media (CDM) at DePaul University (Chicago, USA)
 
 <a href="https://app.daily.dev/vahidalizadeh"><img src="https://github.com/VahidAlizadeh/VahidAlizadeh/blob/main/devcard.svg" width="300" alt="Vahid Alizadeh's Dev Card"/></a>
 
